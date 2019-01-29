@@ -1,0 +1,12 @@
+E:\Three\three\WX.CNode\WX.CNode.IRepository\bin\Debug\WX.CNode.IRepository.dll
+E:\Three\three\WX.CNode\WX.CNode.IRepository\bin\Debug\WX.CNode.IRepository.pdb
+E:\Three\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.csprojAssemblyReference.cache
+E:\Three\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.csproj.CoreCompileInputs.cache
+E:\Three\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.dll
+E:\Three\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.pdb
+E:\ThreeCNode\three\WX.CNode\WX.CNode.IRepository\bin\Debug\WX.CNode.IRepository.dll
+E:\ThreeCNode\three\WX.CNode\WX.CNode.IRepository\bin\Debug\WX.CNode.IRepository.pdb
+E:\ThreeCNode\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.csprojAssemblyReference.cache
+E:\ThreeCNode\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.csproj.CoreCompileInputs.cache
+E:\ThreeCNode\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.dll
+E:\ThreeCNode\three\WX.CNode\WX.CNode.IRepository\obj\Debug\WX.CNode.IRepository.pdb

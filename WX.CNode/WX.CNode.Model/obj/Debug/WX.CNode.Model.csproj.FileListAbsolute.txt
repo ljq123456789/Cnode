@@ -1,0 +1,12 @@
+E:\Three\three\WX.CNode\WX.CNode.Model\bin\Debug\WX.CNode.Model.dll
+E:\Three\three\WX.CNode\WX.CNode.Model\bin\Debug\WX.CNode.Model.pdb
+E:\Three\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.csprojAssemblyReference.cache
+E:\Three\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.csproj.CoreCompileInputs.cache
+E:\Three\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.dll
+E:\Three\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.pdb
+E:\ThreeCNode\three\WX.CNode\WX.CNode.Model\bin\Debug\WX.CNode.Model.dll
+E:\ThreeCNode\three\WX.CNode\WX.CNode.Model\bin\Debug\WX.CNode.Model.pdb
+E:\ThreeCNode\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.csprojAssemblyReference.cache
+E:\ThreeCNode\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.csproj.CoreCompileInputs.cache
+E:\ThreeCNode\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.dll
+E:\ThreeCNode\three\WX.CNode\WX.CNode.Model\obj\Debug\WX.CNode.Model.pdb
